@@ -16,10 +16,6 @@
 
 Urban development hinges on improving the Quality of Life (QOL) for city inhabitants. Traditionally, QOL assessments rely heavily on questionnaire surveys, which, while informative, can be costly and time-consuming. Leveraging the rapid advancements in Artificial Intelligence, this work introduces an innovative approach to automatically extract mobility indicators—key components of QOL evaluations—using **Semantic Segmentation** and **Object Recognition** techniques. Our method not only enhances the accuracy of transportation mobility assessments but also significantly reduces the data collection costs associated with QOL evaluations.
 
-Image Reference: [bangkokgarden](https://www.bangkokgarden.com/10-things-you-need-to-know-before-moving-to-bangkok/)
-
-![](img/bkk-garden-001.jpg)
-![](img/bkk-garden-002.jpg)
 ---
 
 ## 🌟 Highlights
@@ -27,6 +23,15 @@ Image Reference: [bangkokgarden](https://www.bangkokgarden.com/10-things-you-nee
 - **AI-Driven Mobility Indicator Extraction**: Uses cutting-edge image recognition techniques to derive critical mobility factors from urban environments.
 - **Efficient Data Gathering**: Streamlines the process of QOL evaluation, offering a scalable and cost-effective solution.
 - **Award-Winning Research**: Recognized as the Best Young Researcher Paper at STUD 2019.
+
+---
+
+Image Reference: [bangkokgarden](https://www.bangkokgarden.com/10-things-you-need-to-know-before-moving-to-bangkok/)
+
+![](img/bkk-garden-001.jpg)
+![](img/bkk-garden-002.jpg)
+
+---
 
 ## 🚀 Getting Started
 
