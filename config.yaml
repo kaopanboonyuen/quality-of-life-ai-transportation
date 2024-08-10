@@ -1,0 +1,15 @@
+# config.yaml
+
+# Training settings
+train_data: /path/to/train_data
+batch_size: 32
+learning_rate: 0.001
+epochs: 10
+model_save_path: /path/to/model.pth
+
+# Evaluation settings
+test_data: /path/to/test_data
+
+# Inference settings
+image_path: /path/to/image.png
+output_path: /path/to/output.png
