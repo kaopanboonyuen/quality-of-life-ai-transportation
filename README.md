@@ -86,6 +86,21 @@ For more details on the research, you can read our full paper published in the *
 
 [IEEE Xplore: Transportation Mobility Factor Extraction Using Image Recognition Techniques](https://ieeexplore.ieee.org/document/9018796)
 
+## Citation
+
+If you use this project in your research, please cite our work:
+
+```bibtex
+@inproceedings{kijsirikul2019transportation,
+  title={Transportation mobility factor extraction using image recognition techniques},
+  author={Kijsirikul, Boonserm and Panboonyuen, Teerapong  and Iwahori, Yuji and Hayashi, Yoshitsugu and Vateekul, Peerapon and Achariyaviriya, Witsarut},
+  booktitle={2019 First International Conference on Smart Technology \& Urban Development (STUD)},
+  pages={1--7},
+  year={2019},
+  organization={IEEE}
+}
+```
+
 ## 🛡 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
