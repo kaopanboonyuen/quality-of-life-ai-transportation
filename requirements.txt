@@ -1,0 +1,29 @@
+# Required packages for Quality of Life AI Transportation Project
+
+# Basic packages for image processing and machine learning
+numpy==1.24.3
+pandas==2.0.1
+matplotlib==3.7.1
+scikit-learn==1.2.2
+
+# Deep learning frameworks
+torch==2.1.0
+torchvision==0.15.0
+
+# For semantic segmentation and object recognition
+opencv-python==4.7.0.72
+Pillow==9.5.0
+timm==0.6.13
+
+# For YAML configuration files
+PyYAML==6.0
+
+# For model management and tracking
+wandb==0.15.2
+
+# Additional utilities
+scipy==1.11.2
+
+# Ensure compatibility with specific hardware if needed (e.g., CUDA for GPU support)
+# You might need to specify torch and torchvision versions compatible with your CUDA version
+# Example: torch==2.1.0+cu116 torchvision==0.15.0+cu116
