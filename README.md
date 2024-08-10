@@ -16,7 +16,7 @@
 
 Urban development hinges on improving the Quality of Life (QOL) for city inhabitants. Traditionally, QOL assessments rely heavily on questionnaire surveys, which, while informative, can be costly and time-consuming. Leveraging the rapid advancements in Artificial Intelligence, this work introduces an innovative approach to automatically extract mobility indicators—key components of QOL evaluations—using **Semantic Segmentation** and **Object Recognition** techniques. Our method not only enhances the accuracy of transportation mobility assessments but also significantly reduces the data collection costs associated with QOL evaluations.
 
-Image Reference: [https://forevervacation.com/bangkok/bangkok-language](https://forevervacation.com/bangkok/bangkok-language)
+Image Reference: [bangkokgarden](https://www.bangkokgarden.com/10-things-you-need-to-know-before-moving-to-bangkok/)
 
 ![](img/bkk-qol.jpg)
 ---
