@@ -18,7 +18,8 @@ Urban development hinges on improving the Quality of Life (QOL) for city inhabit
 
 Image Reference: [bangkokgarden](https://www.bangkokgarden.com/10-things-you-need-to-know-before-moving-to-bangkok/)
 
-![](img/bkk-qol.jpg)
+![](img/bkk-garden-001.jpg)
+![](img/bkk-garden-002.jpg)
 ---
 
 ## 🌟 Highlights
