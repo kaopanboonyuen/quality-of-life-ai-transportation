@@ -1,9 +1,10 @@
-# 🚦 Transportation Mobility Factor Extraction Using Image Recognition Techniques
+# 🚦 Transportation Mobility Factor Extraction Using AI Image Recognition
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **Author**: Teerapong Panboonyuen (Kao Panboonyuen)  
-**Project**: [TransportationMobilityFactorExtraction](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction)  
+**Code**: [Transportation Mobility Factor Extraction (Code)](https://github.com/kaopanboonyuen/quality-of-life-ai-transportation)  
+**Project**: [Transportation Mobility Factor Extraction (Project)](https://kaopanboonyuen.github.io/quality-of-life-ai-transportation/)  
 **Publication**: [Transportation Mobility Factor Extraction Using Image Recognition Techniques](https://ieeexplore.ieee.org/document/9018796)
 
 ## 🎖️ Achievements
@@ -33,8 +34,8 @@ Image Reference: [https://forevervacation.com/bangkok/bangkok-language](https://
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction.git
-cd TransportationMobilityFactorExtraction
+git clone https://github.com/kaopanboonyuen/quality-of-life-ai-transportation.git
+cd quality-of-life-ai-transportation
 pip install -r requirements.txt
 ```
 
